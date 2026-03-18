@@ -5,3 +5,5 @@ AWS_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
 
 # Slack Bot Token                                                                                                                                                                                                                                                                     
 SLACK_BOT_TOKEN = "xoxb-123456789012-9876543210987-AbCdEfGhIjKlMnOpQrStUvWx"
+
+AWS_KEY := "AKIAIOSFODNN7EXAMPLE"
